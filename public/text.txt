@@ -1,0 +1,558 @@
+
+
+
+Dated [insert date]
+
+
+Agile Software Development Agreement
+
+
+between
+
+[Insert Party Name]
+and
+
+
+[Insert Party Name]
+
+
+
+
+
+
+
+
+
+
+THIS AGREEMENT is entered into on [INSERT DATE] (the “Agreement”).
+
+Between
+The Developer [INSERT COMPANY NAME], a company registered in [England and Wales] under company number [INSERT NUMBER], whose registered office is at [INSERT ADDRESS] (the “Developer”); and 
+
+[INSERT COMPANY NAME], a company registered in [England and Wales] under company number [INSERT NUMBER], whose registered office is at [INSERT ADDRESS] (the “Client”).
+
+Introduction
+A)
+The Developer is engaged in the business of software development.
+B)
+The Client wishes to acquire Software, as well as other Work Products and Services that meet the Client's Roadmap.
+C)
+There have been discussions between the parties and the Developer has expressly represented to the Client that it has the capability to develop Software (and deliver other Work Products and Services) that are appropriate for and fulfil the requirements of the Client's Roadmap.
+D)
+In reliance on the representations alluded to at recital (c) above, the Client wishes to engage the Developer, and the Developer wishes to accept such engagement by the Client, to provide under this Agreement:
+— the Software;
+— the Services; and,
+— other Work Products, 
+in accordance with the Roadmap set out in the SOW.
+E)
+The Developer will employ the Agile Methodology in creating the Software which will enable the Client to respond to Users' needs more quickly compared to any other method of software development available to the parties.  
+
+Agreed Terms
+
+1. Definitions
+1.1
+In this Agreement unless expressly stated otherwise:
+
+“Acceptance” has the meaning given to that in clause 4.5;
+"Acceptance Criteria" means requirement(s) enumerated in the SOW or agreed following Sprint Planning Meetings that must be satisfied to the reasonable satisfaction of the Client in order for the Developer to demonstrate compliance with the Roadmap before the Software and/or an identified Work Product or specific element of the Services can be deemed to have been completed;
+“Affiliate” means any entity that directly or indirectly controls, is controlled by, or is under common control with a party;
+“Agile Methodology” means a method of software development which emphasises communication, learning and collaboration; functioning software; and the flexibility to adapt to emerging business realities; delivering faster results; 
+"Anti-Corruption Laws" means any applicable foreign or domestic anti-bribery and anti-corruption laws and regulations, as amended from time to time, including the UK Bribery Act 2010;
+"Business Day" means a day (other than a Saturday or Sunday) on which banks are generally open for normal business in England;
+"Business Hours" means 0900 hours – 1800 hours (GMT);
+"Change Control Procedure" means the procedure set out in clauses 3.12 to 3.14 to effect a change to the Services, Work Products, Software or terms of this Agreement;
+"Change Order" means the document giving effect to an addition, modification or removal of anything that could have an effect on the Software, Work Products or the Services in accordance with clause 3.13;
+"Charges" means those charges payable by the Client to the Developer in accordance with the SOW;
+“Client Personal Data” means any Personal Data provided by or on behalf of the Client; 
+“Confidential Information” means information disclosed by (or on behalf of) one party to the other party in connection with or in anticipation of this Agreement that is marked as confidential or, from its nature, content or the circumstances in which it is disclosed, might reasonably be supposed to be confidential. It does not include information that the recipient already knew, that becomes public through no fault of the recipient, that was independently developed by the recipient or that was lawfully given to the recipient by a third party;  
+"Data Protection Law" means all applicable data protection laws, regulations, legislative and regulatory Roadmap and codes of practice; 
+"Defect" means, with regard to the Software and (where technology related) any Work Product or Services, a defect, failure, malfunction, bug or nonconformity in the Software, Work Product or Services that prevents the Software, Work Product or Services from substantially complying with, or operating in accordance with, the applicable Acceptance Criteria and/or the Roadmap;
+"Developer Personnel" means the Developer’s officers, directors, employees, direct or indirect beneficial owners or shareholders or any other party acting on behalf of the Developer;
+"Effective Date" means the date upon which this Agreement becomes legally binding between the parties having been executed by a duly authorised person or persons on behalf of each party;
+"Force Majeure Event" means such of the following events which is beyond the reasonable control of the party (or its Affiliates or sub-contractors) and which prevents such party from performance of its obligations under this Agreement: an act of God, fire, flood, storm, revolution, act of terrorism, riot, war or civil commotion (but excluding strikes and industrial disputes of the affected party or a sub-contractor, any failures of power or other utilities, surplus or shortage of, or any delay in or inability to procure or remove, any labour, materials, equipment or supplies, or any default, omission or delay by or of any third party save to the extent attributable to an event or circumstance beyond the reasonable control of the relevant third party);
+“Go Live” means put into a live environment whereby the Software and/or Work Product is accessible publicly;
+"Good Industry Practice" means the exercise of that degree of professionalism, skill, diligence, care, prudence, judgment, productivity, innovation, integrity, diligence and foresight which would reasonably and/or ordinarily be expected from a skilled and experienced person engaged in the same type of activity under the same or similar circumstances;
+“Group Company” means in relation to each of the parties:
+a) any parent company of that party; and
+b) any corporate body of which that party directly or indirectly has control or which is directly or indirectly   
+    controlled by the same person or group of persons as that party;
+“Intellectual Property Rights” means all copyright, moral rights, patent rights, rights in designs, trademarks, service marks, trade and business names, logos, get up and trade dress and all associated goodwill, rights to sue for passing off and/or for unfair competition, rights in computer software, rights in or relating to databases, rights in information (including know-how and trade secrets) and the right to use, and protect the confidentiality of, confidential information, rights in relation to domain names, and any other intellectual property rights (registered or unregistered) throughout the world; 
+"Malicious Software" means any software or code that is designed to infiltrate a computer, system, network or other infrastructure without a User’s informed consent or that is harmful, destructive or disabling or which has the effect of destroying, interfering with or corrupting, or enabling unauthorised access to, or causing or assisting other undesired effects on program files, data or other information, executable code or application software macros, whether or not its operation is immediate or delayed, and whether the same is introduced wilfully, negligently or without knowledge of its existence, such as virus, trojans, worms, spam, phishing e-mail, backdoors, bots, spyware, adware, dialers, toolkits, keyloggers, highjackers, web bug, exploits, cracking tools, and hacking tools;
+“Milestones” means those milestones, both known and intermediate ones, that are set out or referred to in Annex 1 section [INSERT SECTION NUMBER] of the SOW.
+"Open Source Software" means any software licensed under any form of open-source licence meeting the Open Source Initiative's Open Source Definition (http://www.opensource.org/docs/definition.php) or any libraries or code licensed from time to time under the General Public Licence (as described by the Free Software Foundation and set out at http://www.gnu.org/licenses/gpl.html), or anything similar, included or used in, or in the development of, the Software, or with which the Software is compiled or to which it is linked;
+“Personal Data” bears the meaning given to it in the Data Protection Act;
+"Pre-Existing IPR" has the meaning given to that term in clause 6.1;
+“Product Manager” means a member of the Developer’s team authorised to attend meetings and make decisions in respect of the Services delivered pursuant to this Agreement and the SOW;
+“Product Owner” means a member of the Client’s team authorised to attend meetings and make decisions in respect of the Services delivered pursuant to this Agreement and the SOW;
+“Project Budget” refers to any estimated allowable expenditure for the Services in respect of the project as a whole; 
+"Roadmap" means the plan to deliver the Software and Work Products (as applicable) and to implement the Services; the agreed timeline for delivery and implementation and the Developer's implementation as set out in the SOW;
+"Services" means the services supplied or to be supplied by the Developer to the Client under this Agreement as agreed by the parties from time to time and set out in the SOW including as a result of any agreed Change Order;
+"Software" means the software programs (including documentation and other materials) provided or to be provided by the Developer to the Client under this Agreement as agreed by the parties from time to time and set out in the SOW;
+"SOW" means one or more Statements of Work (each expressly referring to this Agreement) which sets out the Software, Work Products and Services, and corresponding Roadmap, to be provided by the Developer to the Client under this Agreement and signed by all parties;
+“Sprint” refers to the basic and specific unit/ cycle of agile development time allocated to achieve Milestones as set out in Annex 1 section [INSERT SECTION NUMBER] of the SOW; 
+“Sprint Budget” refers to the estimated allowable expenditure for the Services in respect of a relevant Sprint as may be agreed in a Sprint Planning Meeting; 
+“Sprint Planning Meeting” refers to the meeting held with the project team (which must include at least the Product Manager and Product Owner) at the beginning of a Sprint to discuss and agree the next stage of development in respect of the Services; 
+“Sprint Review Meeting” refers to the meeting held with the project team, involving the Product Owner and the Product Manager, during a Sprint as referred to in the Roadmap in the relevant SOW to discuss what has gone before or the progress of the Sprint;
+“Stories” (or “Story”): refers to a simple description of a requirement and Acceptance Criteria agreed following a Sprint Planning Meeting, the process for which is set out in Annex 1 section [INSERT SECTION NUMBER] of the SOW;
+"Term" has the meaning given in clause 13.1;
+"Testing" means the testing of the Software or Work Product to determine whether it meets the Acceptance Criteria;
+“Third Party Software” any software programs which are proprietary to any third party which are provided to the Client, with or without modification;
+"User" means users of the Software, Work Products and/or the Services within and outside of the Client including without limitation, the Client, Developer Personnel, Client Group Companies, Client's customers, contractors, joint ventures and any person given access thereto with the Client’s consent or authority; 
+"User Story" means user wants and/or needs and/or benefits features given to Users and described from the User's point of view;
+"Warranty Period" means the period of [thirty (30)] days in relation to the Software (and each part thereof) and/or to each Work Product (not forming part of the Software) commencing in each case upon the later of (i) the Client's Acceptance of the Software or Work Product (as appropriate) in accordance with this Agreement; and (ii) the first time the Software and/or Work Product is ‘Go Live’; and,
+"Work Products" means the products provided or to be provided by the Developer to the Client under this Agreement as agreed by the parties from time to time and set out in the SOW.
+1.2
+In this Agreement (except where the context otherwise expressly requires):
+(a) the words "include" and "including" will not limit the generality of any words preceding them;
+(b) headings are inserted for ease of reference only and shall not affect construction.  Reference to a clause or schedule is to the relevant clause or schedule to this Agreement;
+(c) a “person” includes a natural person, corporate or unincorporated body (whether or not having separate legal   
+personality); and
+(d) references to statutes are, unless otherwise stated, to UK statutes in force at the Effective Date (as subsequently re-enacted or consolidated) and shall be deemed to include all instruments, orders or regulations made thereunder or deriving validity therefrom.
+1.3
+If there is any conflict between this Agreement as executed on the Effective Date and any term of any SOW, the terms of the [SOW] will take precedence. If there is any conflict between any SOWs, the later SOW will take precedence. 
+
+2. Appointment
+
+2.1
+With effect from the Effective Date, the Client appoints the Developer, and the Developer accepts such appointment, as the non-exclusive provider of the Software, the Services and other Work Products. Nothing in this Agreement prevents the Client from contracting for services or projects whether similar to those supplied under this Agreement or otherwise from another supplier or from fulfilling its information technology needs internally.
+2.2
+The Developer shall deliver, and shall procure that the Developer Personnel and any subcontractors engaged by the Developer for any reason relating to the Developer’s fulfilment of any of its obligations under this Agreement shall deliver the Software, the Services and other Work Products substantially in accordance with the Roadmap and shall fulfil its obligations in accordance with this Agreement for the benefit of the Client to meet the SOW and the Roadmap.
+2.3
+The Developer will deliver the Software, the Services and other Work Products in accordance with the SOW and the Roadmap.
+2.4
+Nothing in this Agreement will constitute a commitment by the Client to engage The Developer for any services except those contained in a valid and binding SOW.
+2.5
+The parties will enter into SOWs, which will set out:
+(a) the Software, Services and/or Work Products to be provided under the SOW;
+(b) the Roadmap, Acceptance Criteria and Testing processes in respect of such Software, Services and/or Work Products; and 
+ (c) the Charges payable in respect of such Software, Services and/or Work Products.
+2.6
+Where requested by the Client, the Developer shall prepare (and update as required) a draft SOW and provide to the Client for comment and/or amendment as required by the Client.
+2.7
+The Agreement is structured as a master services agreement under which SOWs (incorporating the information at clause 2.5) are produced. Each SOW shall become binding on the parties upon signing by their respective authorised representatives, at which time the SOW shall be incorporated into and form part of this Agreement. 
+
+3. Software and Services
+
+3.1
+The Developer shall provide the Software, Services and Work Products including but not limited to:
+(a) the bespoke design, build, test and deployment of the Software;
+(b) any new version, enhancement, upgrade, update or error fix of the Software and Work Products developed by or on behalf of the Developer; and,
+(c) other on-going services requested by the Client from time to time. 
+Additional Services and/or Work Products may be agreed to be provided by the Developer under this Agreement in accordance with the Change Control Procedure at clauses 3.12 to 3.14 of this Agreement.
+3.2
+A detailed architecture, design, build, testing and implementation exercise will be carried out by the Developer within the scope of and in accordance with the SOW to ensure that the Software will meet the Roadmap and SOW comprising:
+(a) technical specification and design of the Software and other Work Products;
+(b) configuration and build of the Software and other Work Products to meet the Roadmap and SOW;
+(c) [technical design and build of all interfaces and conversion programs in accordance with Good Industry Practice;]
+(d) [configuration of all infrastructure environments;]
+(e) test of the entire Software and Work Products [(including system testing, system integration testing, end to end testing, User acceptance testing and performance testing)] to confirm compliance with the Roadmap and SOW;
+(f) [preparation of and technical support during User acceptance tests;]
+(g) [implementation and roll-out of the Software and the Work Products with the Client and Users;] and
+(h) [preparation for and the execution of an error-free, fit for purpose go-live of the Software.]
+3.3
+Upon completion of each Sprint, the Client shall satisfy itself that the functionality of the Software meets the Roadmap and, upon Acceptance after successful Testing carried out by the Client, the Client shall satisfy itself that the Software can be deployed into the live environment before it is so used and the Developer shall provide all reasonable assistance and cooperation to the Client in this regard. 
+
+Roadmap
+
+3.4
+The parties acknowledge that the plan for the delivery of the Software (including applicable Services and Work Products) will be set out in the Roadmap.  
+3.5
+Unless expressly stated otherwise, any times and dates for performance of the Services or any part thereof are of the essence. The Developer shall be under a duty to give the Client prompt notice of any potential or actual delay in providing the Software, the Services or Work Products and the likely effect of such delay on the performance of other Services and delivery of the Software. The Client may either notify the Developer that any delay is not satisfactory, in which case to the parties shall negotiate in good faith for the Charges to be reduced to fairly and reasonably reflect any delay or, at the Client’s discretion, the Client may instead decide that clause 3.6 shall apply in respect of any delay. The Developer shall continue to perform the Services and its obligations and use all of its best endeavours to mitigate any adverse consequences of any potential or actual delay.
+3.6
+If there is a delay in delivering the Software, the Services or Work Products (or any part thereof) and a Milestone is not met by its due date, the Developer and the Client shall discuss in good faith at the next Sprint Review Meeting timetabled in the SOW and the Developer shall present a proposal for reserving time in the next Sprint to enable the Developer to deliver the Software, the Services or Work Products as soon as possible thereafter. The Developer shall not be liable for any delay in delivery that is caused by an event, circumstance or cause within the scope of clause 16 or the Client’s failure to provide the Developer with adequate instructions.
+3.7
+Except where specified in this Agreement, the Developer shall ensure that the Software and Work Products shall substantially perform to meet the Roadmap and SOW in all respects.
+3.8   
+The Client shall ensure that all Roadmap and instructions issued to the Developer are clear and accurate in all respects and it shall be the obligation of the Developer to ensure that it has such adequate instructions before carrying out any of the Services. 
+3.9
+The Client will inform the Developer promptly in writing if at any time during the provision of the Services, the Client has reasonable grounds to believe that the Developer may be proceeding on the basis of any incorrect or out-of-date, content, information, data or assumption which may cause the Developer to fail to fulfil any material provision of the Agreement.
+3.10
+The Developer, through its testing process, shall use its reasonable efforts to identify the anomalies, if any, between the Roadmap and/or SOW, and the Software and other Work Products that have been built. 
+
+Co-operation
+
+3.11
+The parties will co-operate and act reasonably and in good faith in discussing and agreeing any documents, their respective roles and responsibilities or anything else that needs to be agreed pursuant to this Agreement.
+
+Change Control Procedure
+
+3.12
+The Client may, at any time, request (and the Developer may, at any time, recommend) changes, modifications, or additions to any aspect of a SOW. All such requests (which are considered by the Developer to be more than minor) shall be subject to the Change Control Procedure or as set out between clauses 3.12 and 3.14 of this Agreement. The Client shall not take, or omit to take, any action or implement any decision which may have a materially adverse effect on the Developer’s ability to fulfil any SOW. 
+3.13
+No purported amendment or variation of this Agreement or any agreed SOW shall be effective unless it is in writing in a form agreed by the Client and the Developer and duly executed by or on behalf of each of the parties acting through the Product Manager at the Developer and Product Owner at the Client (a “Change Order”). 
+3.14
+Services i) requested by the Client, and agreed in the Change Order, which are additional to an applicable SOW, or, ii) work requested by the Client to be undertaken outside of Business Hours shall incur additional Charges which shall be pro-rated in accordance with Day Rates set out in the relevant SOW. 
+
+4. Acceptance of Software and Work Products and Performance of Services
+
+General
+
+4.1
+The processes to be adopted during testing of Software and Work Products and the Acceptance Criteria will be set out in the SOW.
+
+Warranty Period
+
+4.2
+Immediately following Acceptance and Go Live of the Software and/or a Work Product, there will be a Warranty Period.
+
+4.3
+During the Warranty Period, the Software and/or Work Product will be used in live operation to ensure that the Software (and the Work Products therein) and/or the Work Product substantially complies with the Roadmap.
+
+4.4
+If any Defects arise or are determined to exist during the Warranty Period, then:
+(a) to the extent that the Client is aware of the Defect, the Client will notify the Developer of each Defect during the Warranty Period, giving the Developer as much detail as it is reasonably possible to provide;
+(b) the Developer will correct each Defect at its own cost as soon as reasonably possible or within such time period as the parties may agree upon in writing on a case-by-case basis and, having carried out regression testing in relation to the Defect concerned to make sure that Defect together with any other Defects caused by it (or caused by having tried to fix it) have been corrected, the corrected version will be implemented in the live environment so that it can be checked by the Client in operation in a live environment so as to ensure that the relevant Defects have been corrected and a Warranty Period shall commence again from the date the corrected version is so implemented. 
+
+4.5
+The Software and/or Work Product will be confirmed in Acceptance by the Client on the later of:
+(a) completion of the relevant Warranty Period; or
+(b) completion by the Developer of the correction of any Defects or bugs or other failures identified during the Warranty Period, their implementation as part of the live Software and successful Client Testing to confirm that the relevant Defects, bugs and/or failures have indeed been fixed.
+
+4.6
+It is understood and agreed that the Developer’s obligations in clause 4.4 shall not apply to the extent that any failure of the Software and/ or Work Products to perform substantially in accordance with the Roadmap is caused by any one or all of the following:
+
+(a) content or materials provided by the Client;
+(b) attempts have been made by the Client’s personnel or third parties without the permission of the Developer to rectify such Defect other than normal recovery or diagnostic;
+(c) improper use, operation, neglect (including unauthorised maintenance) or damage of the Software and/ or Work Products by the Client;
+(d) failure on the part of the Client to follow the Developer's written instructions or (if there are none) Good Industry Practice;
+(e) failure of any operating system, compiler, utility or software which is not owned or licensed by, or in the control of, the Developer;
+(f) damage resulting from the Client’s use of software which was not provided by the Developer;
+(g) the modification of the Software or the merger (in whole or in part) with any other software, save where such modifications or merger has been conducted by the Developer or with the Developer’s express written consent;
+(h) the unreasonable failure of the Client to (or to permit the Developer to) implement recommendations in respect of, or solutions to, faults previously advised by the Developer or the refusal or failure to install upgrades that contain fixes to such faults;
+(i) the use of the Software and/ or Work Products for a purpose for which it was not designed;
+(j) browser incompatibilities and malfunctions subject to the Developer having appropriately given advance written notice to the Client of such incompatibilities.
+
+4.7
+The Developer may, in its discretion and at the request of the Client, provide Services notwithstanding that the fault results from circumstances described in clause 4.6 and in such circumstances, shall be entitled to levy additional Charges commensurate with the work involved and which shall be calculated in accordance with clause 3.14. 
+
+5. Pricing, Taxes and Invoicing
+
+Pricing and Taxes
+
+5.1
+In consideration of the Developer fulfilling its obligations under this Agreement, the Client shall pay the Developer the Charges as set out in the applicable SOW. 
+
+5.2
+Payment will be dependent on the Acceptance by the Client of the Software, Work Products and Services and the achievement of Milestones to be set out in the Roadmap, as further detailed in the applicable SOW.
+
+5.3
+All sums payable under this Agreement are exclusive of Value Added Tax, and any other tax, duty or impost which shall be payable by the Client at the rate and in the manner from time to time prescribed by law.
+
+5.4
+The Developer will only be entitled to additional Charges (not otherwise specified in a SOW) pursuant to a Charge Order.
+
+
+
+Invoicing and Payment
+
+5.5
+All sums due to the Developer under this Agreement shall be payable by the Client by [electronic bank transfer] after receipt of an invoice (which shall be payable [a month in arrears]) which shall state: 
+(a) a short description of the relevant Software, Services and/or Work Products (and any SOW to which the payment 
+    relates);
+(b), the period to which the invoice relates;
+(c) the Developer’s bank account for payment; 
+(d) all Charges and applicable taxes;
+(e) the hours attributable to each team member and the itemised and cumulative sums associated with each team member’s work; and 
+(f) any expenses or other incidental and pre-agreed costs.
+
+5.6
+If the Client has a bona fide dispute in relation to the whole or any part of an invoice submitted by the Developer, the Client may withhold payment of the amount in dispute, provided that the Client continues to pay the undisputed amount when it becomes due and payable in accordance with the terms of this Agreement. Where such a dispute arises, the Client shall notify the Developer of the amount in dispute and the nature of the dispute within five (5) days failing which the invoice shall be deemed to be correct and shall be due for payment in full forthwith.
+
+5.7
+The Developer shall continue to perform its obligations under this Agreement and shall not suspend the provision of any Services or Work Products or other obligations under this Agreement for any reason other than due to a Force Majeure Event.
+
+5.8
+Reasonable out-of-pocket expenses agreed in advance may be charged by the Developer on production of reasonable evidence of expenditure to Client.
+
+5.9
+Save for bona fide disputes, if either party fails to make any payment due to the other party under this Agreement by the due date for payment, then, the other shall be entitled to charge interest on the amount outstanding from the due date to the date of receipt (whether or not after judgment) under the Late Payment of Commercial Debts (Interest) Act 1998 at its discretion. 
+
+6. Intellectual Property Rights
+
+6.1
+All Intellectual Property Rights belonging to a party, subcontractor or third party prior to the Effective Date, or created independently and not in relation to this Agreement or otherwise than in the provision of the Software, the Work Products and/or the Services (“Pre-Existing IPR”) will remain vested in that party, subcontractor or third party (as applicable) and shall not be assigned hereunder. 
+
+6.2
+Subject to clause 6.1 and save for disputes and/or where the Developer is in material and/or continued breach of any of its obligations set out in this Agreement, all Charges due and payable under this Agreement having been received by the Developer in full and cleared funds, the copyright and all newly developed Intellectual Property Rights in all other aspects of the Software and Work Products (including any interfaces developed specifically for the Client) shall belong to and vest in the Client on creation.  The Developer hereby assigns and shall procure that its subcontractors assign to the Client or as the Client directs with full title guarantee (by way of present assignment of future rights) all its Intellectual Property Rights therein. The Developer shall ensure that its employees, contractors, consultants and sub-contractors waive all moral rights they might have in the Software and Work Products.
+
+6.3
+The Developer hereby grants the Client and each entity to whom this Agreement (or any part thereof) is assigned, novated or otherwise transferred, the non-exclusive, worldwide, perpetual, irrevocable, royalty free, paid up licence and right to use, execute, display, install, test, reproduce, distribute, sub-license (temporarily to third party service providers only in accordance with clause 6.4), modify, maintain, enhance, commercially exploit and create derivative works of its Pre-Existing IPR (subject at all times to the terms of any third party or open source licensing terms pursuant to clauses 6.8 and 6.9):
+
+(a) contained in the Software and/or any Work Products; or 
+(b) otherwise delivered to the Client by the Developer, or required to use, maintain or develop the Software (or any part thereof) and/or any Work Products,
+
+and to permit such use of such Pre-Existing IPR by the Client (and its directors, officers, employees, contractors and suppliers) and each entity to whom this Agreement (or any part thereof) is assigned, novated or otherwise transferred solely to the extent necessary for its general business purposes in relation to the Software, any relevant Work Product and the Services.
+
+6.4
+The Developer agrees that the Client has the limited and non-exclusive right to sub-license to third party service providers of the Client (both existing and future) the Pre-Existing IPR described in clause 6.3 in similar terms to the licence described in clause 6.3 (save for the right for such third party suppliers to further sub-license) for the purposes of providing services to the Client and/or each entity to whom this Agreement (or any part thereof) is assigned, novated or otherwise transferred.
+
+6.5
+For the avoidance of doubt, the licence granted in clause 6.3 and any licences granted under clause 6.4 shall continue to apply notwithstanding the extension, expiration or termination of this Agreement for any reason save for where the assignation in clause 6.2 has not occurred due to a failure of the Client to pay all the Charges lawfully due to the Developer.
+
+6.6
+Except to the extent expressly stated otherwise in this Agreement, neither party shall acquire any right, title, or interest in any Intellectual Property Rights belonging to the other party, or the other party’s licensors.  
+
+Escrow
+
+6.7
+Upon the Client’s request in writing, the Developer shall deliver the executable version of the Software and/or Work Product software to the Client upon the delivery of the Software and/or Work Product as applicable.  The Developer shall provide the source code and object code version of such Software in appropriate computer-readable form and all updates thereto, together with all updated manuals, documentation and information that are reasonably necessary for maintenance, modification or enhancement of such software, and the Pre-Existing IPR required to use such source code and object code in accordance with the SOW, to the Client:
+
+(a) on delivery of the executable version of the Software; and 
+(b) at the intervals set out in the applicable SOW.
+
+Open Source Software
+
+6.8
+Where the Software and/ or any Work Product under this Agreement uses Open Source Software in whole or in part in the provision of the Services, such Open Source Software shall be licensed according to the terms and conditions of the specific licence under which the relevant Open Source Software is distributed, but is provided "as is" and without limitation, the Developer specifically denies any implied or express representation that such Open Source Software in conjunction with or as incorporated or linked with the Software will be fit:
+
+(a) to operate in conjunction with any hardware items or software products other than with those that are identified as being compatible with the Software; or
+(b) to operate uninterrupted or error-free.
+
+Third Party Software
+
+6.9
+Where the Developer under this Agreement uses Third Party Software in the provision of the Software, such Third Party Software shall be licensed subject to the relevant third party licensing terms and the Client acknowledges that the only warranties in relation to the Third Party Software, or the supply thereof, are those contained in the standard licence terms from the third party supplier(s) of the same, and that to the extent that any of such warranties are given to the Developer, it will pass on the benefit of such warranties to the Client. The Client agrees to be bound to the relevant third parties by such licence terms and to use reasonable endeavours to ensure that its Affiliates are bound under similar obligations owed to the relevant third parties. Third Party Software is provided "as is" and without limitation, the Developer specifically denies any implied or express representation that such Third Party Software in conjunction with or as incorporated or linked with the Software will be fit:
+
+(a) to operate in conjunction with any hardware items or software products other than with those that are identified as being compatible with the Software; or
+(b) to operate uninterrupted or error-free.
+
+
+
+7. Data Protection
+
+7.1
+For the purposes of Data Protection Law, the Client is the data controller and the Developer is the data processor in respect of any Personal Data.
+
+7.2
+The Developer will:
+(a) process the Personal Data only in accordance with the Client’s instructions;
+(b) not process that Personal Data for any purposes other than to provide the Services, Software and/or Work Products to the Client;
+(c) ensure that appropriate technical and organisational measures are taken to avoid unauthorised or unlawful processing of that Personal Data and against loss or destruction of, or damage to, that Personal Data;
+(d) take reasonable steps to ensure the reliability of all of Developer Personnel who have and/or will have, access to that Personal Data;
+(e) inform the Client immediately of any suspected or confirmed data protection breaches or unauthorised or unlawful 
+processing, loss, or destruction of, or damage to, that Personal Data;
+(f) not sub-contract to any third party any of the Developer's obligations to process that Personal Data on behalf of the Client without the Client’s prior written consent; and
+(g) not process, or cause to be processed, that Personal Data outside the European Economic Area unless the Developer has:	
+(i) the Client’s prior written consent to do so; and
+(ii) fulfilled all of the Client’s Roadmap to enable the processing to take place outside the European Economic Area.
+
+8. Warranties
+
+8.1
+Each party warrants to the other that:
+
+(a) it has all requisite power and authority to enter into this Agreement and to carry out all of its obligations under this 
+Agreement;
+(b) it has obtained all consents, clearances, permissions, and licences necessary to carry out all of its obligations under 
+this Agreement; and
+(c) it will use reasonable care and skill in complying with its obligations under this Agreement.
+
+8.2
+Without prejudice to the generality of the foregoing, the Developer warrants and undertakes to the Client that:
+(a) the receipt and use of the Software (or any part thereof), the Services, Work Products and related materials by the Client and other Users shall not infringe the Intellectual Property Rights of any third party if used in accordance with this Agreement and any additional licence terms agreed;
+(b) it owns or has the right to provide under valid and enforceable agreements all Software and the materials to be provided to the Client for the benefit of the Client, and Users under this Agreement shall have full right and title or licence to quiet possession, use and operation of the Work Products and the Software in accordance with this Agreement;
+(c) it (and each sub-contractor) possesses and has the right to use the requisite knowledge and expertise and any equipment to provide the Services;
+(d) it shall employ or engage sufficient staff who are suitably qualified, experienced and trained to provide the Services in accordance with the terms of this Agreement;
+(e) there are no actions, suits or proceedings or regulatory investigations pending or, to its knowledge, threatened against or affecting it before any court or administrative body or arbitration tribunal that might materially affect its ability to meet and carry out its obligations under this Agreement;
+(f) it has the capability to customise, configure and implement the relevant software to provide the Software and Work Products as required by the Client as set out in the Roadmap and SOW;
+(g) at the time of delivery or integration by the Developer and/or access by the Client, the Software and/or Work Product shall not contain, or be infected by, Malicious Software and the Developer shall use its reasonable efforts to ensure that no Malicious Software is introduced into the Software or any Client computer system and the Developer will in any event use Good Industry Practice at all times in order to ensure as far as possible that these objectives are attained;
+(h) in performing any Services which require the provision of advice or recommendations to the Client, the Developer shall use reasonable care and skill including making reasonable enquiries prior to making any recommendations. The Developer acknowledges that the Client will be relying on the skill and knowledge of the Developer in relation to the supply of the Software, the Work Products and Services under this Agreement; and
+(i) the Work Products and the Software shall during the Warranty Period substantially comply with the Acceptance Criteria, specifications and Roadmap in all material respects as set out in this Agreement, and shall operate in all material respects in accordance with any performance, design, build and/or quality standards required by this Agreement.
+
+8.3
+The Developer warrants and undertakes to the Client that it shall perform its obligations under this Agreement, and that the Software, Services and Work Products will be delivered:
+(a) in a timely and workmanlike manner using the reasonable skill and care required by Good Industry Practice;
+(b) in a safe manner which complies with all relevant health and safety legislation;
+(c) in a way that shall co-operate with the Client’s staff;
+(d) in compliance with all applicable laws and regulations, including Data Protection Laws, export compliance and Anti-Corruption Laws; and
+(e) in compliance with the Client's information security policies notified to the Developer from time to time.
+
+8.4
+In the event of any breach of any of the warranties set out in this clause, without prejudice to any other right the Client may have, the Developer, at its own expense, shall take all reasonable steps to remedy the breach. In the event that such breach is material in nature and:
+(i) incapable of remedy; or
+(ii) capable of remedy and the Developer fails to remedy that breach within [thirty (30)] days after receiving written notice of such breach,
+the Client may terminate this Agreement pursuant to clause 13.5.
+
+9. Indemnities
+
+9.1
+The Developer shall indemnify the Client, its officers, directors, and employees against all claims, actions, liabilities, losses, damages and reasonable expenses suffered or incurred by the Client as a result of or arising out of all or any part of (i) any third party claim that the Services, Software, Pre-Existing IPR or Work Products infringe or misappropriate any third party Intellectual Property Rights; or (ii) any breach of clause 7.1 by the Developer.
+
+9.2
+The Client will have the right to approve any counsel retained to defend against any claim in which the Client is named a defendant, and will not unreasonably withhold such approval. The Client will have the right to control and participate in the defence of any such claim concerning matters that relate to the Client, and the Developer will not settle any such claim without the Client's reasonable consent. If, in the Client's reasonable judgment, a conflict exists between the interests of the Client and the Developer in such a claim, the Client may retain its own counsel whose reasonable fees will be paid by the Developer.
+
+9.3
+Nothing in this clause shall restrict or limit the Client’s general obligation at law to mitigate a loss it may suffer or incur as a result of an event that may give rise to a claim under this indemnity.
+
+10. Liability
+
+10.1
+Nothing in this Agreement shall exclude or limit either party’s liability for:
+(a) death or personal injury resulting from the negligence of the relevant party or their servants, agents or employees;
+(b) fraud or fraudulent misrepresentation;
+(c) breach of any implied condition as to title or quiet enjoyment;
+(d) misuse of Confidential Information; or
+(e) payment of sums properly due and owing to the other in the course of normal performance of this Agreement.
+
+10.2
+The Developer’s liability for:
+(a) breach of clause 6 (Intellectual Property Rights); and,
+(b) breach of clause 9 (Indemnities);
+shall be unlimited and sub-clauses 10.3, and 10.4 shall not apply.
+
+10.3
+Subject to clauses 10.1 and 10.2, neither party shall be liable under or in connection with this Agreement (whether in contract, tort or otherwise) for any:
+(a) loss of profit;
+(b) loss of anticipated savings;
+(c) loss of business opportunity;
+(d) loss of or corruption of data; loss or damage resulting from third party claims; or
+(e) indirect or consequential losses,
+suffered or incurred by the other party (whether or not such losses were within the contemplation of the parties at the date of this Agreement).
+
+10.4
+Subject to clause 10.1 and 10.2, the Developer’s total maximum liability arising under or in connection with this Agreement, whether in contract, tort (including negligence), breach of statutory duty or otherwise shall not exceed, in respect of any SOW, an amount equivalent to the Charges paid to the Developer in respect of the SOW complained of which has given rise to the claim (or series of related claims).
+
+10.5
+The Developer shall maintain with a reputable insurer sufficient insurance cover to meet its liabilities under this Agreement.
+
+10.6
+Whenever the Client is to pay to the Developer any sum under this Agreement, the Client may not set-off against such sum any amounts that the Developer owes the Client (whether pursuant to this Agreement or otherwise).
+
+10.7
+The Developer shall not be in breach of any of its obligations under this Agreement which arise or occur due to the act, omission, default of the Client or the Client’s failure to comply with any of its obligations under this Agreement.
+
+10.8
+No action arising out of or in connection with this Agreement may be brought by the Client more than twelve (12) months after the date of the event from which the claim (or series of related claims) arose.
+
+
+11. Confidentiality
+
+11.1
+The recipient of any Confidential Information will not disclose that Confidential Information, except to employees and/or professional advisors who need to know it for the purposes of discharging the recipient’s obligations under this Agreement. The recipient will ensure that those people and entities: (a) use such Confidential Information only to exercise rights and fulfil obligations under this Agreement, and (b) keep such Confidential Information confidential in accordance with this clause as though they were a party to this Agreement. The recipient may also disclose Confidential Information where required by law, any governmental or regulatory authority or by a court of competent jurisdiction.
+
+11.2
+Neither party will issue any press release regarding this Agreement without the other’s prior written approval. 
+
+11.3
+This clause 11 shall survive termination of this Agreement.
+
+12. Non-Solicitation
+The Client legally and irrevocably covenants to the Developer that, in the absence of any written consent of the Developer, during the Term and for a minimum period of two (2) years following the end of the Term, it will not directly or indirectly solicit, induce, recruit or otherwise encourage or cause or attempt to cause any employee or consultant of the Developer who has worked as part of the contracted activity in this Agreement  to terminate their relationship with the Developer.
+
+13. Term and Termination
+
+13.1
+Each SOW will set out the time period during which the Developer will provide the Software, Services and/or Work Products specified in that SOW to the Client. This Agreement shall commence on the Effective Date and shall continue in force until the later of the date when all SOWs have expired and [one (1) year] from the Effective Date, at which time it will then expire automatically, unless terminated earlier (the "Term").
+
+13.2
+The Client may terminate this Agreement or any SOW(s) in whole or in part by giving not less than [thirty (30) days'] written notice to the Developer at any time, specifying the extent to which the performance of the Agreement or specific SOW is terminated and the date such termination becomes effective.
+
+13.3
+Following exercise of this termination right in clause 13.2, the Developer shall be entitled to payment for Services rendered prior to the effective date of termination and for any other costs properly reimbursable under this Agreement. In the event of any such termination, the Developer shall immediately cease all terminated work.
+
+13.4
+The Developer may not terminate a SOW without the Client's written consent and by giving not less that [thirty (30) days’] written notice to the Client.  
+
+13.5
+Either party may terminate this Agreement or any SOW(s) or any part thereof, with immediate effect if, in respect of the other party, the other party:
+
+(a) is in material breach of this Agreement where the breach is incapable of remedy; or
+(b) is in material breach of this Agreement where the breach is capable of remedy and fails to remedy that breach within [thirty (30) days] after receiving written notice of such breach.
+
+or if any of the following events occur:
+
+(c) it is, or is deemed for the purposes of any applicable law to be, unable to pay its debts as they fall due for payment;
+(d) the other party commences negotiations with all or any class of its creditors with a view to rescheduling any of its debts, or makes a proposal for or enters into any compromise or arrangement with its creditors;
+(e) a petition is presented or documents filed with a court or any registrar or any resolution is passed for its winding-up, administration or dissolution or for the seeking of relief under any applicable bankruptcy, insolvency, company or similar law;
+(f) any liquidator, trustee in bankruptcy, judicial custodian, compulsory manager, receiver, supervisor, administrative receiver, administrator or similar officer is appointed in respect of it or any of its assets; or
+(g) any event analogous to the events listed in (c) to (f) above takes place in respect of it in any jurisdiction.
+
+13.6
+Clause 13.5 (c) to (g) above does not apply to a petition for winding-up presented by a creditor which is being contested in good faith and with due diligence and which is discharged or struck out within twenty-one (21) days.
+
+13.7
+A party may terminate this Agreement or any SOW(s) immediately upon written notice if there is a Change of Control of the other party.  In this clause the term "Change of Control" shall mean a change of ownership in respect of at least 51% of each party’s entire issued voting share capital following the Effective Date. The party experiencing such Change of Control will notify the other party in writing of this within thirty (30) days after the Change of Control. If the terminating party has not exercised its right of termination under this clause within thirty (30) days following receipt of notice of the other party’s Change of Control, that right of termination will expire.
+
+13.8
+Upon the expiration or termination of this Agreement for any reason:
+(a) all rights and licences granted by each party shall cease immediately; and
+(b) if requested, each party shall use its reasonable endeavours to promptly return to the other party, or destroy and confirm in writing the destruction of, all Confidential Information disclosed to it by the other party.
+
+13.9
+The obligations in clauses 5, 6, 9, 10, 11, 12, 13.8, 13.9, in addition to provisions of this Agreement which either are expressed to survive its expiry or termination or from their nature or context it is contemplated that they are to survive such termination, shall survive termination.
+
+13.10
+Termination shall be without prejudice to the accrued rights of either party at the termination date.
+
+14. Assignment and Subcontracting
+
+14.1
+Neither party may assign any part of this Agreement without the written consent of the other, except to an Affiliate where: (a) the assignee has agreed in writing to be bound by the terms of this Agreement; (b) the assigning party remains liable for obligations under this Agreement if the assignee defaults on them; and (c) the assigning party has notified the other party of the assignment. Any other attempt to assign is void.
+
+14.2
+The Developer may [not] subcontract all or any part of the Services hereunder [without prior express consent of the Client].
+
+15. Anti Bribery and Anti Corruption Laws
+In performance of the Developer's obligations under this Agreement, the Developer will comply with all applicable commercial and public anti-bribery laws, including without limitation, the UK Bribery Act 2010 and the Anti-Corruption Laws.
+
+16. Force Majeure
+
+16.1
+Neither party will be liable for failure or delay in performance to the extent caused by circumstances beyond its reasonable control.
+
+16.2
+If a Force Majeure Event prevents a party (the “Affected Party”) from complying with any of its obligations under this Agreement, the Affected Party shall be excused performance of those obligations and shall not be liable for any loss or damage suffered or incurred by the other party arising from the Affected Party's delay in performing or failure to perform its obligations hereunder, for the duration of the Force Majeure Event provided that the Affected Party is not at fault in causing the Force Majeure Event and save that a party is not entitled to rely on this clause 16.2 to the extent that it has failed to take all reasonable steps to mitigate and minimise the period of the delay or to provide reasonable precautions or workarounds.
+
+16.3
+When a Force Majeure Event prevents the Affected Party from complying with any of its obligations under this Agreement, the Affected Party must notify the other party as soon as practicable (and in any event within two (2) days). If such Force Majeure Event lasts for more than [thirty (30) days] from the date of the notification and such Force Majeure Event prevents that Party from performing its material obligations under this Agreement during that period, the other Party is entitled (but not obliged) to terminate this Agreement immediately on written notice at no cost.
+
+16.4
+If the Developer is excused from the performance of the Services pursuant to a Force Majeure Event then, at the Client’s option and without limiting any other rights it may have, the Client may take control of the part of the Services affected by the Force Majeure Event and in so doing may perform any act that the Client deems reasonably necessary in order to restore the Services. The Client shall not be charged for Services that are not provided to the Client as a result of a Force Majeure Event.
+
+16.5
+Upon the cessation of the Force Majeure Event the Affected Party must promptly notify the other Party of such cessation and resume performance of the affected obligations.
+
+16.6
+Subject to clause 16.4, if, as a result of a Force Majeure Event, the performance by the Affected Party of some but not all of its obligations under this Agreement are affected, the Affected Party nevertheless remains liable for the performance of those obligations not affected by the Force Majeure Event.
+
+16.7
+Neither Party is liable for any costs or expenses of the other Party arising as a result of any Force Majeure Event. In the event that any amounts are outstanding and are due to be paid to the Developer for the Services rendered to date, the Developer shall be entitled to payment on a quantum meruit basis for all work done before termination, provided that the Developer takes all reasonable steps to mitigate the amount due.
+
+17. Notices
+All notices of termination or breach must be in writing and addressed to [the other party’s legal department]. The email address for notices shall be the email set out in the latest SOW.  Any such notice sent by email in respect of termination or breach must also be sent by recorded first class post to the registered address at the top of this Agreement. All other notices must be in English, in writing and addressed to the other party’s primary contact.  Notice will be treated as given on receipt, as verified by written or automated receipt or by electronic log (as applicable).
+
+18. Governing Law and Jurisdiction
+This Agreement is governed by English law and the parties submit to the exclusive jurisdiction of the English courts in relation to any dispute (contractual or non-contractual) concerning this Agreement but either party may apply to any court for an injunction or other relief to protect its intellectual property rights.
+
+19. General
+
+19.1
+Publicity: Each party may make reference to the existence of this Agreement as it thinks relevant and appropriate provided that each party shall obtain the written approval of the other party for the contents of any press release relating to the terms of this Agreement prior to issue of such press release. For the avoidance of doubt, the Developer reserves the right to publish news about its role in relation to the project undertaken by way of case studies or otherwise for the Developer’s portfolios, websites and other media or exhibits for the purposes of promotional, creative and professional advancement and to be attributed with authorship of the same.
+
+19.2
+No Waiver: Neither party will be treated as having waived any rights by not exercising (or delaying the exercise of) any rights under this Agreement.
+
+19.3
+No Agency: This Agreement does not create any agency, partnership or joint venture between the parties.
+
+19.4
+No Third Party Beneficiaries: Except as otherwise specified in this Agreement, this Agreement does not confer any benefits on any third party.  Where a third party is intended to benefit, the parties may terminate, amend or vary this Agreement without the agreement of any such third party.
+
+19.5
+Counterparts: The parties may execute this Agreement in counterparts, including facsimile, PDF, and other electronic copies, which taken together will constitute one instrument.
+
+19.6
+Entire Agreement: Subject to clause 4.1, this Agreement sets out all terms agreed between the parties and supersedes all prior agreements, understandings or arrangements between the parties relating to its subject matter (whether oral or in writing).  No representation, undertaking or promise shall be taken to have been given or be implied from anything said or written in negotiations between the parties prior to this Agreement except as expressly stated in this Agreement.  In entering into this Agreement neither party has relied on, and neither party will have any right or remedy based on, any statement, representation or warranty (whether made negligently or innocently), except those expressly set out in this Agreement.
+
+19.7
+Severability: If any term (or part of a term) of this Agreement is invalid, illegal or unenforceable, the rest of this Agreement will remain in effect.
+
+19.8
+Conflicting Terms: If there is a conflict between any term of this Agreement and an SOW, [the SOW] shall prevail.
+
+19.9
+Dispute Resolution Procedure: If a dispute arises out of or in connection with this Agreement, or any SOW, then the parties shall follow the procedure set out in this clause: either party shall give to the other written notice of the dispute, setting out its nature and full particulars (“Dispute Notice”), together with any relevant supporting documents. On service of the Dispute Notice, [INSERT NAME OF DEVELOPER REPRESENTATIVE] and [INSERT NAME OF CLIENT REPRESENTATIVE] shall attempt in good faith to resolve the dispute;
+
+if [INSERT NAME OF DEVELOPER REPRESENTATIVE] and [INSERT NAME OF CLIENT REPRESENTATIVE] are for any reason unable to resolve the dispute within 30 days of service of the Dispute Notice, the parties will attempt to settle it by mediation. Unless otherwise agreed between the parties, the mediator shall be nominated by CEDR Solve. To initiate the mediation, a party must serve notice in writing (ADR notice) to the other party to the Dispute, requesting a mediation and the mediation will start not later than 30 days after the date of the ADR notice.
+
+If the dispute is not resolved following a mediation meeting, or either party fails to participate or to continue to participate in the mediation before the expiration of the said period of 30 days, the parties may then attempt to resolve the dispute through the courts of England and Wales.

@@ -1,0 +1,88 @@
+Got it! Here’s some random sample text formatted to mimic the structure and style of your provided clauses:
+
+---
+
+6. Intellectual Property Rights
+
+6.1  
+All Intellectual Property Rights belonging to a party, subcontractor, or third party prior to the Effective Date, or created independently and not in relation to this Agreement or otherwise than in the provision of the Deliverables and/or the Services (“Pre-Existing IPR”) will remain vested in that party, subcontractor, or third party (as applicable) and shall not be transferred hereunder.
+
+6.2  
+Subject to clause 6.1 and except in cases where the Contractor is in material breach of any of its obligations under this Agreement, all fees due and payable under this Agreement having been received by the Contractor in full and cleared funds, all newly developed Intellectual Property Rights in any aspect of the Deliverables (including any custom components developed specifically for the Client) shall belong to and vest in the Client upon creation. The Contractor hereby assigns and will procure that its subcontractors assign to the Client or as the Client directs with full title guarantee (by way of present assignment of future rights) all its Intellectual Property Rights therein. The Contractor shall ensure that its employees, contractors, consultants, and subcontractors waive all moral rights they might have in the Deliverables.
+
+6.3  
+The Contractor grants the Client and any entity to whom this Agreement (or any part thereof) is assigned, novated, or otherwise transferred, a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, paid-up license to use, execute, display, install, test, reproduce, distribute, sub-license (temporarily to third-party service providers only in accordance with clause 6.4), modify, maintain, enhance, commercially exploit, and create derivative works of its Pre-Existing IPR (subject at all times to the terms of any third-party or open source licensing terms pursuant to clauses 6.8 and 6.9):
+
+(a) contained in the Deliverables; or  
+(b) otherwise delivered to the Client by the Contractor, or required to use, maintain, or develop the Deliverables (or any part thereof),
+
+and to permit such use of such Pre-Existing IPR by the Client (and its directors, officers, employees, contractors, and suppliers) and each entity to whom this Agreement (or any part thereof) is assigned, novated, or otherwise transferred solely to the extent necessary for its general business purposes in relation to the Deliverables and the Services.
+
+6.4  
+The Contractor agrees that the Client has the limited and non-exclusive right to sub-license to third-party service providers of the Client (both existing and future) the Pre-Existing IPR described in clause 6.3 in similar terms to the license described in clause 6.3 (save for the right for such third-party suppliers to further sub-license) for the purposes of providing services to the Client and/or each entity to whom this Agreement (or any part thereof) is assigned, novated, or otherwise transferred.
+
+6.5  
+For clarity, the license granted in clause 6.3 and any licenses granted under clause 6.4 shall continue to apply notwithstanding the extension, expiration, or termination of this Agreement, except where the assignment in clause 6.2 has not occurred due to a failure of the Client to pay all the fees lawfully due to the Contractor.
+
+6.6  
+Except as expressly stated otherwise in this Agreement, neither party shall acquire any right, title, or interest in any Intellectual Property Rights belonging to the other party, or the other party’s licensors.
+
+Escrow
+
+6.7  
+Upon the Client’s written request, the Contractor shall deliver the executable version of the Deliverables and/or software to the Client upon delivery of the Deliverables. The Contractor shall provide the source code and object code version of such Deliverables in appropriate computer-readable form and all updates thereto, together with all updated manuals, documentation, and information that are reasonably necessary for maintenance, modification, or enhancement of such Deliverables, and the Pre-Existing IPR required to use such source code and object code in accordance with the Scope of Work (SOW), to the Client:
+
+(a) on delivery of the executable version of the Deliverables; and  
+(b) at the intervals set out in the applicable SOW.
+
+Open Source Software
+
+6.8  
+Where the Deliverables or any component thereof uses Open Source Software in whole or in part, such Open Source Software shall be licensed according to the terms and conditions of the specific license under which the relevant Open Source Software is distributed. It is provided "as is," and without limitation, the Contractor specifically denies any implied or express representation that such Open Source Software in conjunction with or as incorporated or linked with the Deliverables will be fit:
+
+(a) to operate in conjunction with any hardware items or software products other than those identified as being compatible with the Deliverables; or  
+(b) to operate uninterrupted or error-free.
+
+Third Party Software
+
+6.9  
+Where the Contractor uses Third Party Software in the provision of the Deliverables, such Third Party Software shall be licensed subject to the relevant third-party licensing terms. The Client acknowledges that the only warranties in relation to the Third Party Software, or the supply thereof, are those contained in the standard license terms from the third-party suppliers. To the extent that any warranties are given to the Contractor, it will pass on the benefit of such warranties to the Client. The Client agrees to be bound to the relevant third parties by such license terms and to use reasonable endeavors to ensure that its Affiliates are similarly bound. Third Party Software is provided "as is," and without limitation, the Contractor specifically denies any implied or express representation that such Third Party Software in conjunction with or as incorporated or linked with the Deliverables will be fit:
+
+(a) to operate in conjunction with any hardware items or software products other than those identified as being compatible with the Deliverables; or  
+(b) to operate uninterrupted or error-free.
+
+7. Data Protection
+
+7.1  
+For the purposes of Data Protection Law, the Client is the data controller, and the Contractor is the data processor in respect of any Personal Data.
+
+7.2  
+The Contractor will:
+(a) process the Personal Data only in accordance with the Client’s instructions;  
+(b) not process that Personal Data for any purposes other than to provide the Services, Deliverables, and/or Work Products to the Client;  
+(c) ensure that appropriate technical and organizational measures are taken to avoid unauthorized or unlawful processing of that Personal Data and against loss or destruction of, or damage to, that Personal Data;  
+(d) take reasonable steps to ensure the reliability of all personnel who have and/or will have access to that Personal Data;  
+(e) inform the Client immediately of any suspected or confirmed data protection breaches or unauthorized or unlawful processing, loss, or destruction of, or damage to, that Personal Data;  
+(f) not sub-contract to any third party any of the Contractor's obligations to process that Personal Data on behalf of the Client without the Client’s prior written consent; and  
+(g) not process, or cause to be processed, that Personal Data outside the European Economic Area unless the Contractor has:  
+(i) the Client’s prior written consent to do so; and  
+(ii) fulfilled all of the Client’s requirements to enable the processing to take place outside the European Economic Area.
+
+8. Warranties
+
+8.1  
+Each party warrants to the other that:
+(a) it has all requisite power and authority to enter into this Agreement and to carry out all of its obligations under this Agreement;  
+(b) it has obtained all consents, clearances, permissions, and licenses necessary to carry out all of its obligations under this Agreement; and  
+(c) it will use reasonable care and skill in complying with its obligations under this Agreement.
+
+8.2  
+Without prejudice to the generality of the foregoing, the Contractor warrants and undertakes to the Client that:
+(a) the receipt and use of the Deliverables (or any part thereof), the Services, and Work Products by the Client and other Users shall not infringe the Intellectual Property Rights of any third party if used in accordance with this Agreement and any additional license terms agreed;  
+(b) it owns or has the right to provide under valid and enforceable agreements all Deliverables and materials to be provided to the Client for the benefit of the Client, and Users under this Agreement shall have full right and title or license to quiet possession, use, and operation of the Work Products and the Deliverables in accordance with this Agreement;  
+(c) it (and each subcontractor) possesses and has the right to use the requisite knowledge and expertise and any equipment to provide the Services;  
+(d) it shall employ or engage sufficient staff who are suitably qualified, experienced, and trained to provide the Services in accordance with the terms of this Agreement;  
+(e) there are no actions, suits, proceedings, or regulatory investigations pending or, to its knowledge, threatened against or affecting it before any court or administrative body or arbitration tribunal that might materially affect its ability to meet and carry out its obligations under this Agreement;  
+(f) it has the capability to customize, configure, and implement the relevant software to provide the Deliverables and Work Products as required by the Client as set out in the Scope of Work (SOW);  
+(g) at the time of delivery or integration by the Contractor and/or access by the Client, the Deliverables and/or Work Product shall not contain, or be infected by, Malicious Software and the Contractor shall use its reasonable efforts to ensure that no Malicious Software is introduced into the Deliverables or any Client computer system and the Contractor will in any event use Good Industry Practice at all times to ensure as far as possible that these objectives are attained;  
+(h) in performing any Services which require the provision of advice or recommendations to the Client, the Contractor shall use reasonable care
